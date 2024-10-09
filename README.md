@@ -14,7 +14,7 @@ Je suis un développeur junior passionné, récemment formé en développement w
 
 ## En cours d'apprentissage
 - 🚀 Approfondissement de React et Symfony
-- 📱 Découverte du développement mobile
+- 📱 Exploration du développement mobile
 
 ## Objectifs
 - 🎯 Contribuer à des projets open source
