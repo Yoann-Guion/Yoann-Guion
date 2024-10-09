@@ -4,9 +4,9 @@
 Je suis un développeur junior passionné, récemment formé en développement web. Mon parcours m'a permis d'acquérir des compétences en React.js et Symfony, et je suis toujours enthousiaste à l'idée d'apprendre de nouvelles technologies.
 
 ## Mes compétences
+- 🌐 HTML / CSS
 - 💻 JavaScript / React.js
 - 🖥️ PHP / Symfony
-- 🌐 HTML / CSS
 - 📊 Git
 
 ## Projets
