@@ -22,7 +22,7 @@ Je suis un développeur junior passionné, récemment formé en développement w
 
 ## Contact
 - 📧 yoannguion0@proton.me
-- 🔗 [Yoann Guion](linkedin.com/in/yoann-guion)
+- 🔗 [Yoann Guion](www.linkedin.com/in/yoann-guion)
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute opportunité de collaboration ou d'apprentissage mutuel !
 
