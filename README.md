@@ -10,7 +10,7 @@ Je suis un développeur junior passionné, récemment formé en développement w
 - 📊 Git
 
 ## Projets
-- [O'Jeux de société](https://o-jeux-de-societe.fr/) => projet de fin de formation. Front fait avec Next.js en react et back avec Symfony en PHP
+- [O'Jeux de société](https://ojeuxdesociete.fr/) => projet de fin de formation. Front fait avec Next.js en react et back avec Symfony en PHP
 
 ## En cours d'apprentissage
 - 🚀 Approfondissement de React et Symfony
