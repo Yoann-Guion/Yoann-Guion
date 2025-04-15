@@ -6,11 +6,11 @@ Je suis un développeur junior passionné, récemment formé en développement w
 ## Mes compétences
 - 🌐 HTML / CSS
 - 💻 JavaScript / React.js
-- 🖥️ PHP / Symfony
+- 🖥️ PHP / Symfony / Node.js
 - 📊 Git
 
 ## Projets
-- [Activty Timer](https://activity-timer-nine.vercel.app/fr) => Projet actuel sur lequel je travaille entre 2 candidatures
+- [Activity Timer](https://activity-timer-nine.vercel.app/fr) => Projet actuel sur lequel je travaille entre 2 candidatures
 - [O'Jeux de société](https://ojeuxdesociete.fr/) => projet de fin de formation. Front fait avec Next.js en react et back avec Symfony en PHP
 
 ## En cours d'apprentissage
