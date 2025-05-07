@@ -21,8 +21,9 @@ Je suis un développeur junior passionné, récemment formé en développement w
 - 🎯 Contribuer à des projets open source
 - 📚 Apprendre continuellement et améliorer mes compétences
 
-## Contact
+## Contacts
 - 📧 yoannguion@ik.me
+- 💻 yoannguion.com
 - 🔗 [Yoann Guion](https://www.linkedin.com/in/yoann-guion)
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute opportunité de collaboration ou d'apprentissage mutuel !
