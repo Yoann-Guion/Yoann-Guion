@@ -24,7 +24,7 @@ Je suis un développeur junior passionné, récemment formé en développement w
 ## Contacts
 - 📧 yoannguion@ik.me
 - 💻 [Mon portfolio](yoannguion.com)
-- 🔗 [Yoann Guion](https://www.linkedin.com/in/yoann-guion)
+- 🔗 [Mon LinkedIn](https://www.linkedin.com/in/yoann-guion)
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute opportunité de collaboration ou d'apprentissage mutuel !
 
