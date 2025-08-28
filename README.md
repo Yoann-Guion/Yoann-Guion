@@ -23,7 +23,7 @@ Ce qui me caractérise :
 
 ## 🚀 Mes projets
 
-### 🔗 [Trackivity](https://trackivity.vercel.app/fr) 
+### ⌛ [Trackivity](https://trackivity.vercel.app/fr) 
 *Application de suivi d'activités avec objectifs hebdomadaires personnalisés* 
 - Outil de productivité personnel pour analyser et optimiser son temps
 - **Interface moderne** : Next.js, TypeScript, Tailwind CSS, ShadCN UI
@@ -61,21 +61,23 @@ Ce qui me caractérise :
 
 ### Backend & Base de données
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,symfony,mysql" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,php,symfony,mysql,mariadb" alt="Backend Skills" />
 </div>
 
 - **Node.js** : Runtime JavaScript côté serveur
+- **MongoDB** : Base de données NoSQL orientée document, flexible et évolutive pour les données non structurées. 
 - **PHP** : Développement backend orienté objet
 - **Symfony** : Framework PHP moderne avec API REST
 - **MySQL** : Gestion de bases de données relationnelles
+- **MariaDB** : Système de gestion de base de données relationnelle, compatible avec MySQL
 
 ### Outils & Méthodologie
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm" alt="Tools" />
 </div>
 
 - **Git/GitHub** : Contrôle de version et collaboration
-- **VS Code** : Environnement de développement
+- **VS Code/WebStorm** : Environnement de développement
 - **Méthodologie AGILE** : Travail en équipe et gestion de projet
 
 
