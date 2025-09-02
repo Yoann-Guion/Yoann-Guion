@@ -9,11 +9,6 @@
 
 Développeur Fullstack passionné, je combine une petite décennie d'expérience dans l'industrie agro-alimentaire avec une formation récente en développement web chez **O'Clock** (DWWM). Mon parcours atypique, enrichi par quatre années de voyages à travers le monde, m'a doté d'une perspective unique et d'une capacité d'adaptation exceptionnelle.
 
-**Ma formation intensive (6 mois) :**
-- 4 mois de socle : HTML, CSS, JavaScript, PHP, SQL
-- 1 mois de spécialisation React avec découverte de TypeScript
-- 1 mois de projet en équipe en environnement professionnel supervisé
-
 Ce qui me caractérise :
 - 🌍 **Vision internationale** acquise lors de mes voyages
 - ⚡ **Rigueur industrielle** couplée à la créativité du développement
