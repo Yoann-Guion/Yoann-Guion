@@ -96,9 +96,6 @@ Ce qui me caractérise :
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoann-Guion&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-
 ## 🎯 À la recherche de
 
 🔍 **CDI en développement web** - Poste junior pour évoluer dans une équipe dynamique  
