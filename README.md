@@ -1,7 +1,7 @@
 # Bonjour, je suis Yoann Guion 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Développeur+Fullstack+Junior;Parcours+atypique+%26+international;React+•+Symfony+•+TypeScript;Curieux+des+nouvelles+technologies+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Développeur+Fullstack+Junior;En+recherche+d'emploi;Parcours+atypique+%26+international;React+•+Symfony+•+TypeScript;Curieux+des+nouvelles+technologies+!" alt="Typing SVG" />
 </div>
 
 
